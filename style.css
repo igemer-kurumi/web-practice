@@ -1,0 +1,14 @@
+h1{
+    color: white;
+    background-color: red;
+    font-family:  "UD デジタル 教科書体 NK-B","UD Digi Kyokasho NK-B";
+}
+
+h2{
+    border-bottom: solid;
+    border-color: red;
+}
+
+.leader{
+    color: red;
+}
